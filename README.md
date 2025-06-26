@@ -10,7 +10,7 @@
   <img height=200 align="center" src="hhttps://github-readme-stats.vercel.app/api?username=Corp-i1&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/corp-i1">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Corp-i1&show_icons=true&theme=radicallayout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Corp-i1&theme=radical&show_icons=true&theme=radicallayout=compact&langs_count=8&card_width=320" />
 </a>
 
 [![Corpi1's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Corpi1&theme=radical&Compact)](https://github.com/anuraghazra/github-readme-stats)
